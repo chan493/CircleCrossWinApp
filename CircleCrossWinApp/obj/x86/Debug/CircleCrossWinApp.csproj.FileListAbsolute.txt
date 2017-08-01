@@ -1,0 +1,10 @@
+D:\Project\CircleCrossWinApp\CircleCrossWinApp\bin\Debug\CircleCrossWinApp.exe
+D:\Project\CircleCrossWinApp\CircleCrossWinApp\bin\Debug\CircleCrossWinApp.pdb
+D:\Project\CircleCrossWinApp\CircleCrossWinApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\CircleCrossWinApp\CircleCrossWinApp\obj\x86\Debug\CircleCrossWinApp.Form1.resources
+D:\Project\CircleCrossWinApp\CircleCrossWinApp\obj\x86\Debug\CircleCrossWinApp.Properties.Resources.resources
+D:\Project\CircleCrossWinApp\CircleCrossWinApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\CircleCrossWinApp\CircleCrossWinApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\CircleCrossWinApp\CircleCrossWinApp\obj\x86\Debug\CircleCrossWinApp.exe
+D:\Project\CircleCrossWinApp\CircleCrossWinApp\obj\x86\Debug\CircleCrossWinApp.pdb
+D:\Project\CircleCrossWinApp\CircleCrossWinApp\bin\Debug\CircleCrossWinApp.exe.config
